@@ -19,13 +19,10 @@ Tools used:
 
 ## Viewing Page source
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dcd8a68-94ba-4324-8a44-9c5327782237/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d749c89-6dcc-4e85-ad48-758f10ad3a05/Untitled.png)
-
   Flag 1: found in HTML comment one via /new-home-beta
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4645359c-7aff-428c-b02e-2dc0372b392d/Untitled.png)
+![flag 1](https://github.com/stephbiggs1/-Walking-an-Application/assets/62307870/fc029789-a85b-4fa5-a304-3d4cfa6dcbba)
+
 
 Flag 2: Found in embedded secret link on line 41 of page source
 
