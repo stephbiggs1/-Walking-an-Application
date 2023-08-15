@@ -26,28 +26,34 @@ Tools used:
 
 Flag 2: Found in embedded secret link on line 41 of page source
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cba918fc-4999-4064-934a-7bfe46d82d60/Untitled.png)
+![flag 2](https://github.com/stephbiggs1/-Walking-an-Application/assets/62307870/43eb235b-fdda-433d-bfd8-f8b8e99fee17)
 
 Fla 3: Found via /assets/ in flag.txt folder
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcef083a-81ef-4542-b562-43b0c56abe8d/Untitled.png)
+![flag 3](https://github.com/stephbiggs1/-Walking-an-Application/assets/62307870/decd50de-ca15-4303-9cf9-77ac5310a386)
+
 
 Flag 4: Found by navigating to site in HTML comment on line 51. I navigated to the change log page and read information for current version 1.3. I navigated to file /tmp.zip, downloaded folder and located flag found within the folder. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a4d72907-1f32-495b-aacc-936a177408af/Untitled.png)
+![flag4](https://github.com/stephbiggs1/-Walking-an-Application/assets/62307870/a1d175d9-133e-4345-90d4-e696ed92f145)
 
 ## Inspector Tools
 
 Flag 1: opened inspector tool in chrome browser and navigated to the paywall. Under elements and style I was able to edit the display from block to none and was able to see corresponding flag.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63dda87d-1c0f-4e7d-8b83-17915e53b0e8/Untitled.png)
+
+![flag5](https://github.com/stephbiggs1/-Walking-an-Application/assets/62307870/581b2672-0836-4e2f-9ebe-f174e0f6b002)
+
 
 ## Debugger
 
 Flag 1: In order to pause the flash animation, I navigate to the sources page and clicked text beside second to last line. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed5d3069-9971-4288-a87a-7cc91e0e9d5d/Untitled.png)
+![flag 6](https://github.com/stephbiggs1/-Walking-an-Application/assets/62307870/5b70ae58-a6a3-4456-99b7-d00f53a22c36)
 
 ## Network
 
 Flag 1: Under the network tab I was able to keep track of incoming messages from the contact page. One a message was submitted I was able to click on newly generated information and discover the flag within the message preview.
+
+![flag 7](https://github.com/stephbiggs1/-Walking-an-Application/assets/62307870/cf6c4d4a-1f8e-48e7-a790-787f3deaf634)
+
